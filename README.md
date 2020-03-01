@@ -9,7 +9,7 @@
 
 ## How can I use this tweak?
 You can compile and install it on your device or download and install it directly from my repo:
-Nimk.ir/repro
+http://Nimk.ir/repo
 
 details:
 http://nimk.ir/repo/depictions/?p=com.nima.rjpass
