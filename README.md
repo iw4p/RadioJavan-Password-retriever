@@ -6,3 +6,10 @@
 ## Is it useful to know my password?
  Maybe, If you forgot it and you don't wanna use the reset password option.
  But in fact, It's a fun tweak to realize RadioJavan knows your password.
+
+## How can I use this tweak?
+You can compile and install it on your device or download and install it directly from my repo:
+Nimk.ir/repro
+
+details:
+http://nimk.ir/repo/depictions/?p=com.nima.rjpass
